@@ -4,4 +4,4 @@ Gitの練習を始めます
 ・git commit
 の勉強をしました。
 
-git diffの動作確認します
+git diffの動作確認しますよーーーーーん
